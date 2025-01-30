@@ -1,2 +1,2 @@
-# -Crop_Fertilizer_RS-Week-1
+# -Crop_Fertilizer_RS
 Based on RS by using ML
